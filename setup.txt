@@ -1,0 +1,4 @@
+torch torchvision torchaudio
+gym-super-mario-bros
+nes-py==8.1.8
+gym==0.24.1
